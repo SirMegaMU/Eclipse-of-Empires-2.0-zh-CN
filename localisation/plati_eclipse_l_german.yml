@@ -1,0 +1,155 @@
+﻿l_german:
+ ############## Made by Isodor_von_Edelsburg ###############################
+ #
+ #
+ #
+ #
+ PLATI_DECAY_POINTS_tooltip: "[Root.GetName] hat 100 £eclipse_texticon£ Zerfall verdient (§R[Root.PLATI_DECAYPointsVariable.GetValue]§!/§Y100§!)."
+ gain_decaypoints_tooltip:0 "Gewinn §R1§! £eclipse_texticon£ Verfall."
+ gain_five_decaypoints_tooltip:0 "Gewinn §R5§! £eclipse_texticon£ Verfall."
+ CHEAT_PLATI_ECLIPSE_tooltip:0 "Gewinnt §R100§! £eclipse_texticon£ Verfall."
+ lose_decaypoints_tooltip:0 "Verlieren Sie §G10§! £eclipse_texticon£ Verfall."
+ gain_LOTSA_decay_tooltip:0 "Zunahme §R10§! £eclipse_texticon£ Verfall."
+ #
+ eclipse_plati_decision_title:0 "Nationalen Verfall eindämmen"
+ eclipse_plati_decision_desc:0 "Mit der richtigen Politik und großen Anstrengungen kann unsere Regierung versuchen, den Schaden zu heilen, den frühere Generationen von [Root.GetName] angerichtet haben."
+ #
+ eclipse_great_power.EVTNAME150: "DEBUG"
+ eclipse_great_power.EVTDESC150: "bleh."
+ eclipse_great_power.EVTOPTA150: "Cringe"
+ eclipse_great_power.EVTOPTB150: "Based"
+ eclipse_great_power.EVTNAME151: "[Root.GetAdjective] Goldene Zeitalter"
+ eclipse_great_power.EVTDESC151: "Das Goldene Zeitalter ist angebrochen! Zeiten des Wohlstandes und des Triumphes brechen an! [Root.GetName] wird Jahrhunderte andauern, während unsere Feinde zusammenbrechen und unsere Kultur immer weiter wächst!"
+ eclipse_great_power.EVTOPTA151: "Herrlich!"
+ #
+ eclipse_great_power.EVTNAME1: "[Root.GetAdjective] Eklipse"
+ eclipse_great_power.EVTDESC1: "Die Geschichte birgt viele Geschichten über ganze Zivilisationen, die sich im Nichts auflösten und nach sich ziehende Staaten, Überzeugungen und Völker hinterließen. Erfolgreichere und effizientere Regierungen haben zwar länger überdauert als andere, aber auch sie sind schließlich dem zersetzenden Einfluss der Zeit erlegen. Ein Land kann unterworfen und zur Knechtschaft gezwungen werden, aber ein Land, das von innen heraus zerfällt, findet selten, wenn überhaupt, die vereinte Kraft und Überzeugung für eine Wiedergeburt. Man kann versuchen, die Idee eines Landes zu bewahren, indem man die einstige Zivilisation kulturell, politisch oder zumindest sprachlich nachahmt. Die Bemühungen sind letztlich vergeblich, da man nicht zweimal in denselben Fluss steigen kann.\n\n[Root.GetName] erlebte eine glorreiche Ära der militärischen Dominanz, des wirtschaftlichen Wohlstands und wohl auch der Überlegenheit der Überzeugung. Ein Zeitalter, das bald von einem Zeitalter des Kampfes, der Gewalt und des Verlustes ganzer Generationen abgelöst werden wird."
+ eclipse_great_power.EVTOPTA1: "Wir werden durchhalten."
+ eclipse_great_power.EVTOPTB1: "[Root.GetName] in Trümmern!"
+ 
+ eclipse_great_power.EVTNAME100: "Nachwehen"
+ eclipse_great_power.EVTDESC100: "Jahrelang haben die [Root.GetName] um den Erhalt ihrer Macht und ihres früheren Ruhmes gekämpft. Jahrelang waren die [Root.GetAdjective] in Konflikte, Streit und Verwüstung verwickelt. Jahrelang stand [Root.GetName] am Rande des Zusammenbruchs. Unser stolzer Staat steht noch, und wir erinnern uns gut an diejenigen, die das anders sehen wollen. Wir erinnern uns an das, was einmal war und was sein könnte. Und nun blicken unsere Soldaten zu ihrem [Root.Monarch.GetTitle] auf, in der Hoffnung, dass [Root.Monarch.GetHerHim] eines Tages die Macht von [Root.GetName] wiederherstellen wird!"
+ eclipse_great_power.EVTOPTA100: "Aushalten. Wer aushält, wird stärker."
+ eclipse_great_power.EVTOPTB100: "Das ist noch nicht vorbei..."
+ 
+ eclipse_great_power.EVTNAME2: "Religiöse Auseinandersetzungen"
+ eclipse_great_power.EVTDESC2: "Die [eclipse_religious_province.Religion.GetName]-Gemeinschaften, die in [Root.GetName] leben, tauchen weiterhin mit Feuer und Schwert auf. Der [Root.Religion.GetName]-Glaube wird trotz unserer Bemühungen nicht mehr geduldet, und Ketzer und Heiden setzen ihre Angriffe auf den [Root.GetAdjective]-Klerus und jeden, den sie für abtrünnig halten, gleichermaßen fort."
+ eclipse_great_power.EVTOPTA2: "Wir dürfen die Lage nicht eskalieren lassen."
+ eclipse_great_power.EVTOPTB2: "Halten Sie sie im Zaum."
+ eclipse_great_power.EVTOPTC2: "Es ist mir zutiefst egal."
+ 
+ eclipse_great_power.EVTNAME3: "Kleines Volk, großer Hass"
+ eclipse_great_power.EVTDESC3: "Die [eclipse_cultural_province.Culture.GetName]-Gemeinschaft von [eclipse_cultural_province.GetName], inspiriert von der Idee der Selbstbestimmung und dem Traum von ihrer Souveränität, hat sich zusammengeschlossen, um der unterdrückenden Herrschaft von [Root.GetName] zu widerstehen."
+ eclipse_great_power.EVTOPTA3: "Zugeständnisse machen."
+ eclipse_great_power.EVTOPTB3: "Jeder [eclipse_cultural_province.Culture.GetName] wird seinen Platz kennen!"
+ 
+ eclipse_great_power.EVTNAME4: "Die Verschwörung"
+ eclipse_great_power.EVTDESC4: "Die Härten, die [Root.GetName] erdulden muss, sind von Ehrgeiz und Unzufriedenheit nicht unbemerkt geblieben. Während die Krise anhält, sind einige wenige, die noch Vertrauen in ihren [Root.Monarch.GetTitle] haben, zu [Root.Monarch.GetName] gekommen, um [Root.Monarch.GetHerHim] vor einer laufenden Verschwörung zu warnen - die Stände haben sich heimlich verschworen, um den [Root.Monarch.GetName] zu stürzen und einen Teil der Macht und des Einflusses für sich selbst zu ergreifen!"
+ eclipse_great_power.EVTOPTA4: "Verhaftet und richtet alle hin, denen wir nicht trauen können!"
+ eclipse_great_power.EVTOPTB4: "Sind das nicht nur bösartige Gerüchte?"
+ 
+ eclipse_great_power.EVTNAME5: "Lähmende Korruption"
+ eclipse_great_power.EVTDESC5: "Durch und durch verdorben - so beschreiben sowohl unsere Landsleute als auch Ausländer unseren Staat und unsere Bürokratie. Sie sprechen von Bestechung, Vetternwirtschaft und Günstlingswirtschaft - Eigenschaften, die die letzte Hoffnung auf eine Leistungsgesellschaft völlig zunichte gemacht haben. Im dunklen Zeitalter der Großreiche war die Korruption vielleicht der entscheidende Nagel im Sarg einer Zivilisation."
+ eclipse_great_power.EVTOPTA5: "Solange ich meinen Anteil bekomme, ist mir das egal."
+ eclipse_great_power.EVTOPTB5: "Wir müssen etwas tun."
+ 
+ eclipse_great_power.EVTNAME6: "Heeresverrat"
+ eclipse_great_power.EVTDESC6: "Der Unglaube an die Zukunft und die Loyalität gegenüber ihren Generälen anstelle ihres [Root.Monarch.GetTitle] hat zu Massendesertion geführt. Es sind Fälle bekannt, in denen charismatische Anführer ihre Untergebenen davon überzeugen, die [Root.GetAdjective]-Flagge fallen zu lassen und für andere Ziele zu kämpfen - entweder für fremde Mächte, religiöse Überzeugungen oder zumindest für Geld. Von kleinen Zwischenfällen bis hin zum Verschwinden ganzer Regimenter schwindet die Zahl unserer Soldaten von Monat zu Monat. Ob wir nun illoyale Elemente gehen lassen oder sie zum Dienst zwingen, eines ist klar - die [Root.GetAdjective]-Armee ist in einem miserablen Zustand."
+ eclipse_great_power.EVTOPTA6: "Auf die eine oder andere Weise WERDEN sie für [Root.GetName] sterben."
+ eclipse_great_power.EVTOPTB6: "Wir brauchen keine Feiglinge."
+ eclipse_great_power.EVTOPTC6: "Richten Sie diejenigen hin, die unsere Truppen der Illoyalität bezichtigen!"
+ 
+ eclipse_great_power.EVTNAME7: "Der Feind im Inneren"
+ eclipse_great_power.EVTDESC7: "Sabotage, Attentate und andere ausländische Einmischungen - [Root.GetName] ist mit Spionen durchsetzt wie ein wilder Hund mit Flöhen. Niemandem kann man voll und ganz vertrauen, jeder kann ein ausländischer Agent sein, und irgendjemand schmiedet in diesem Moment ein Komplott gegen unsere große [Root.GovernmentName]. Diese Spione müssen aufgespürt und ausgemerzt werden, koste es, was es wolle! Ein solches Vorgehen ist zwar fruchtbar, wird aber schwerwiegende Folgen haben. Wir können andererseits ineffizient, aber unauffällig nach diesen Elementen Ausschau halten, wann und wo immer es möglich ist, und kein offenes Misstrauen gegenüber den Regierungsmitgliedern an den Tag legen. Unabhängig davon wird die derzeitige Schwäche von unseren Feinden, einschließlich [eclipse_spy_country.GetName], stark ausgenutzt werden."
+ eclipse_great_power.EVTOPTA7: "Fesseln Sie alle nicht vertrauenswürdigen Elemente in Eisen."
+ eclipse_great_power.EVTOPTB7: "Seien Sie vorsichtig - wir können uns keine weiteren Turbulenzen leisten."
+ 
+ eclipse_great_power.EVTNAME8: "Ein gescheiterter Staat?"
+ eclipse_great_power.EVTDESC8: "Die beispiellose Krise, die [Root.GetName] erlebt, wird von ausländischen Mächten - sowohl von Feinden als auch von Verbündeten - genauestens beobachtet. Viele, die früher Gesandte mit sanften Worten und sanften Geschenken schickten, haben ihre Tätigkeit in [Root.GetName] eingestellt. Briefe, die zwischen [Root.Monarch.GetTitle] [Root.Monarch.GetName] und anderen Herrschern ausgetauscht werden, haben sich in ihrer Art verändert und bestehen aus kälterer, schärferer Sprache anstelle der erwarteten respektvollen und entgegenkommenden Worte. Sogar [eclipse_ally_country.GetAdjective] Diplomaten haben durch ihre Worte und Taten ihren Unglauben an eine fruchtbare Zusammenarbeit und ihr mangelndes Interesse an der Unterstützung von [Root.GetName] gezeigt. Es hat den Anschein, dass die ausländischen Mächte jeden Moment mit dem Zusammenbruch unseres stolzen Staates rechnen..."
+ eclipse_great_power.EVTOPTA8: "Sollen sie doch denken, was sie wollen."
+ eclipse_great_power.EVTOPTB8: "Wir müssen versuchen, unseren Status zu verbessern!"
+ 
+ eclipse_great_power.EVTNAME9: "Stadtkonflikt"
+ eclipse_great_power.EVTDESC9: "[eclipse_cityconflict_province.GetCapitalName] steht in Flammen! Diejenigen, die mit ihrem Schicksal unzufrieden sind, haben sich erhoben und ihre Stadt und den Rest von [eclipse_cityconflict_province.GetName] in Schutt und Asche gelegt. Als ob ihnen das in irgendeiner Weise helfen würde! Wie dem auch sei, wir können versuchen, den Konflikt in der Stadt einzudämmen, oder wir können die Armee schicken, um alle Rebellen niederzuschlagen."
+ eclipse_great_power.EVTOPTA9: "Sollen sie es doch ausfechten."
+ eclipse_great_power.EVTOPTB9: "Ordnung wiederherstellen."
+ 
+ eclipse_great_power.EVTNAME10: "Fall von [Root.GetName]"
+ eclipse_great_power.EVTDESC10: "[Root.GetName] der Große - jetzt nur noch dem Namen nach. Seit unserem anfänglichen Aufstieg als wichtiger Akteur auf der Weltbühne sind wir weit zurückgefallen. Viele glauben, dass dies das Ende unserer großen Zivilisation ist und es an der Zeit ist, dass wir uns zurückziehen und anderen aufstrebenden Reichen Platz machen. Unsere Feinde, nämlich die [eclipse_rivalsubjugator_country.GetAdjective], bereiten sich zweifellos darauf vor, unserer Herrschaft ein Ende zu setzen und uns unter ihr Joch zu zwingen."
+ eclipse_great_power.EVTOPTA10: "Solange [Root.Capital.GetCapitalName] steht, werden wir überleben."
+ 
+ eclipse_great_power.EVTNAME14: "'Freiheit für [eclipse_independence_country.GetAdjective] und andere unterdrückte Völker!'"
+ eclipse_great_power.EVTDESC14: "Selten entsteht ein Staat aus dem Nichts - häufiger bildet er sich aus den verfallenden Überresten einer einst mächtigen Zivilisation. Die [Root.GovernmentName] von [Root.GetName] zerfällt und unsere Untertanen sehen dies als Gelegenheit, die Unabhängigkeit zu erklären. Verräterische [eclipse_independence_country.GetAdjective] versammeln ihre Truppen, denunzieren ihren gütigen Herrscher und exekutieren [Root.GetAdjective] Loyalisten. Eine unvorstellbare Frechheit, aber wir sollten dennoch eine von zwei Möglichkeiten in Betracht ziehen - wir klammern uns an unsere bösartigen Untertanen oder geben ihnen die Freiheit, nach der sie sich so sehr sehnen... vorerst."
+ eclipse_great_power.EVTOPTA14: "Ihr alle - kennt euren Platz!"
+ eclipse_great_power.EVTOPTB14: "Nehmen Sie sich so viel Souveränität, wie Sie wollen..."
+ eclipse_great_power.EVTOPTC14: "Vielleicht kann der [Root.Monarch.GetTitle] eine Lösung finden..."
+ 
+ eclipse_great_power.EVTNAME15: "Rise of extremist practices in [eclipse_extremist_province.GetName]"
+ eclipse_great_power.EVTDESC15: "Eine neue religiöse Sekte ist aufgetaucht, die das Festhalten an heiligen Schriften propagiert und Glaubenssätze praktiziert, die die Ordnung unserer stolzen [Root.GovernmentName] umstürzen. Diese Anhänger eines charismatischen Predigers sind gekommen, um unsere Interpretation des heiligen Textes zu verurteilen und alle [Root.Religion.GetName] Gläubigen als Ketzer zu brandmarken. Diese neugeborenen Fundamentalisten, die ihren Ursprung in [eclipse_extremist_province.GetName] haben und, wenn die Gerüchte stimmen, von [eclipse_extremist_country.GetAdjective] gesponsert werden, verbreiten sich nun in der gesamten [Root.GovernmentName]. In ihrem giftigen Gedankengut propagieren sie bösartige Handlungen wie religiöse Gewalt und rufen sogar zur Hinrichtung ihres [Root.Monarch.GetTitle] wegen seiner "Ungläubigkeit" auf!"
+ eclipse_great_power.EVTOPTA15: "Beseitigt diese Fäulnis aus unserem [Root.GovernmentName]!"
+ eclipse_great_power.EVTOPTB15: "Sicherlich nehmen wir sie nicht ernst..."
+ 
+ eclipse_great_power.EVTNAME16: "Berater fliehen!"
+ eclipse_great_power.EVTDESC16: "Wie Ratten, die aus einem sinkenden Schiff fliehen, packen unsere Berater hektisch ihre Habseligkeiten zusammen und sind im Begriff, aus [Root.GovernmentName] zu fliehen. Da sie hier keine Zukunft sehen, suchen sie in [Root.GetName] ein stabileres und friedlicheres Land, dem sie ihre Dienste anbieten können."
+ eclipse_great_power.EVTOPTA16: "[Root.GetAdjective] Hof hat keinen Platz für Feiglinge..."
+ eclipse_great_power.EVTOPTB16: "Die Münze wird sie zum Bleiben bewegen."
+ 
+ eclipse_great_power.EVTNAME17: "Kreditgeber desillusioniert"
+ eclipse_great_power.EVTDESC17: "Unsere [Root.GovernmentName] ist stark von ausländischem Geld abhängig. Wir finanzieren unsere Bürokratie und unser Militär mit Krediten, und wie eine Lawine hat sich deren Zahl auf besorgniserregende Weise erhöht. Einige haben sich darauf geeinigt, dass die tiefe Krise, in der sich [Root.GetName] befindet, ihr Geld nicht zurückbringen wird, und der [Root.Monarch.GetTitle] ist nicht erpicht darauf, mit seinen Schatullen abzureisen. In der Überzeugung, dass es keine andere Möglichkeit gibt, ihr Geld und ihre Zinsen zurückzubekommen, haben sie sich mit [eclipse_loanfight_country.GetName] geeinigt, indem sie sie während des Krieges finanzieren, in der Hoffnung, dass sie zumindest einen Teil ihrer Verluste durch den Krieg zurückerhalten."
+ eclipse_great_power.EVTOPTA17: "Greifen sie jetzt zu Plünderungen?"
+ 
+ eclipse_great_power.EVTNAME18: "Verlorene Toleranz"
+ eclipse_great_power.EVTDESC18: "In Krisenzeiten entlädt sich die Gewalt im Inneren des Staates. Alter Groll wird wieder wach, während die Schuld für den Verlust des Glücks auf andere Gruppen abgewälzt wird. Von einzelnen Hexenjagden bis hin zu Massakern an religiösen Minderheiten wird die Idee von gegenseitigem Respekt und Koexistenz unserer Bevölkerung immer fremder. Die [Root.GetAdjective] haben jahrelang eine Politik der Toleranz und Harmonie verfolgt, aber die Zeiten ändern sich - vielleicht schlagen wir einen neuen Kurs ein, der sich von unserer derzeitigen Politik der Nachsicht entfernt?"
+ eclipse_great_power.EVTOPTA18: "Es ist das Beste."
+ eclipse_great_power.EVTOPTB18: "Wir dürfen nicht zulassen, dass diese Krise uns umdefiniert."
+ 
+ eclipse_great_powerd: "Eklipse eines Reiches"
+ desc_eclipse_great_powerd: "Alles geht einmal zu Ende, und so wird auch unser stolzer Staat eines Tages im Nichts verschwinden. Werden wir den Test der Zeit überstehen?"
+ 
+ been_greatpower_twenty_years_tooltip: "Ist seit 100 Jahren eine Großmacht."
+ eclipse_active_for_20_years_tooltip: "Hat das dunkle Zeitalter 25 Jahre lang ertragen."
+ eclipse_active_for_10nopower_years_tooltip: "Hat 15 Jahre lang das dunkle Zeitalter ertragen und den Status einer Großmacht verloren."
+ noone_else_in_darkage_tooltip: "Keine andere Großmacht erlebt diese Katastrophe."
+ someone_else_in_darkage_tooltip: "Eine andere Großmacht erlebt diese Katastrophe bereits."
+ eclipse_warning_tt: "Werden wir?"
+ eclipse_strongest_power_tooltip: "Ist die stärkste Großmacht der Welt"
+ 
+ eclipse_main: "Eklipse eines Reiches"
+ desc_eclipse_main: "Wirst du den Test der Zeit bestehen?"
+ 
+ prov_eclipse_religious: "Religiöse Gewalt"
+ desc_prov_eclipse_religious: "Die religiöse Gemeinschaft dieser Provinz hat sich allen Versuchen der religiösen oder politischen Unterwerfung heftig widersetzt."
+ prov_eclipse_cultural: "Nationales Erwachen"
+ desc_prov_eclipse_cultural: "Weil die Kultur der Provinz nicht die Anerkennung erhalten hat, die sie angeblich verdient, hat sich die lokale Bevölkerung erhoben, um ihre Oberherren zu denunzieren."
+ prov_eclipse_trade: "Handelskrise"
+ desc_prov_eclipse_trade: ""
+ prov_eclipse_production: "Stagnation der Produktion"
+ desc_prov_eclipse_production: "Aufgrund der Unterbrechung des Handels, der zunehmenden Stratifikation und der Gewalt leidet diese gut entwickelte Provinz nun schwer unter der anhaltenden Krise."
+ 
+ cooldown_eclipse_dismorale: "Katastrophische Moral"
+ desc_cooldown_eclipse_dismorale: ""
+ cooldown_eclipse_deserters: "Massenhaftes Desertieren"
+ desc_cooldown_eclipse_deserters: ""
+ cooldown_eclipse_leadersexecuted: "Mangelnde Führungsqualitäten"
+ desc_cooldown_eclipse_leadersexecuted: ""
+ 
+ eclipse_spies_rampart: "Der Feind im Inneren"
+ desc_eclipse_spies_rampart: ""
+ eclipse_spy_hunts: "Spionageversuche"
+ desc_eclipse_spy_hunts: ""
+ eclipse_maintaining_of_world_stage: "Aufrechterhaltung der Vorrangstellung auf der Weltbühne"
+ desc_eclipse_maintaining_of_world_stage: ""
+ eclipse_failed_state: "Gescheiterter Staat"
+ desc_eclipse_failed_state: ""
+ eclipse_subject_loyalty: "Widerspenstige Untertanen"
+ desc_eclipse_subject_loyalty: ""
+ eclipse_islamic_extremism: "Bekämpfung des religiösen Extremismus"
+ desc_eclipse_islamic_extremism: ""
+ eclipse_islamic_extremism_severe: "Zunahme des religiösen Extremismus"
+ desc_eclipse_islamic_extremism_severe: ""
+ prov_eclipse_extremist_stronghold: "Extremistenhochburg"
+ desc_prov_eclipse_extremist_stronghold: ""
+ eclipse_loan_offers: "Unkonventionelle Forderungseinziehung"
+ desc_eclipse_loan_offers: ""
+ eclipse_maintenance_tolerance: "Förderung der kostspieligen Toleranz"
+ desc_eclipse_maintenance_tolerance: ""

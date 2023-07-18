@@ -1,0 +1,46 @@
+country_decisions = {
+
+	eclipse_plati_decision = {
+		major = yes
+		
+		potential = {
+			check_variable = {
+				which = PLATI_DECAYPointsVariable					#PLATI
+				value = 51
+			}
+			NOT = { has_country_flag = decision_eclipse_made }
+			NOT = { has_country_flag = had_eclipse_great_power }
+			ai = no
+		}
+		
+		allow = {
+			NOT = { overextension_percentage = 0.05 }
+			NOT = { num_of_loans = 1 }
+			NOT = { corruption = 1 }
+			legitimacy_equivalent = 100
+			has_any_disaster = no
+			reform_level = 10
+			monthly_adm = 10
+		}
+		
+		effect = {
+			set_country_flag = decision_eclipse_made
+			if = {
+				limit = {
+					check_variable = {
+						which = PLATI_DECAYPointsVariable
+						value = 11
+					}
+				}
+				hidden_effect = {
+					subtract_variable = {
+						which = PLATI_DECAYPointsVariable
+						value = 10
+					}
+				}
+				custom_tooltip = "lose_decaypoints_tooltip"
+			}
+		}
+	}
+	
+}

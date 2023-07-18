@@ -1,0 +1,10 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_eclipse_modifier"
+		texturefile = "gfx//interface//ideas_EU4//eclipse_modifier.dds"
+	}
+	spriteType = {
+		name = "GFX_eclipse_texticon"
+		texturefile = "gfx//interface//ideas_EU4//eclipse_texticon.dds"
+	}
+}

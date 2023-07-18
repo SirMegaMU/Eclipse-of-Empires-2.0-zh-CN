@@ -1,0 +1,20 @@
+	### I really need a girlfriend ###	
+	
+spriteTypes = {	
+	spriteType = {
+		name = "PICTUREECLIPSE"
+		texturefile = "gfx//event_pictures//PICTUREECLIPSE.dds"
+	}
+	spriteType = {
+		name = "PLATI_SKULLS"
+		texturefile = "gfx//event_pictures//PLATI_SKULLS.dds"
+	}
+	spriteType = {
+		name = "PLATI_PLOT"
+		texturefile = "gfx//event_pictures//PLATI_PLOT.dds"
+	}
+	spriteType = {
+		name = "PLATI_CULTURE"
+		texturefile = "gfx//event_pictures//PLATI_CULTURE.dds"
+	}
+}
