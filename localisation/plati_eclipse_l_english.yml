@@ -1,0 +1,137 @@
+﻿l_english:
+ PLATI_DECAY_POINTS_tooltip: "[Root.GetName] ·ƒ—V†N100 £eclipse_texticon£ pˆ%ÿ§R[Root.PLATI_DECAYPointsVariable.GetValue] §!/§Y100§!	ÿ0"
+ gain_decaypoints_tooltip:0 "·ƒ—V§R1§! £eclipse_texticon£ pˆ%0"
+ gain_five_decaypoints_tooltip:0 "·ƒ—V§R5§!£eclipse_texticon£pˆ%0"
+ CHEAT_PLATI_ECLIPSE_tooltip:0 "·ƒ—V§R100§!£eclipse_texticon£pˆ%0"
+ lose_decaypoints_tooltip:0 "1Y»S§G10§!£eclipse_texticon£pˆ%"
+ gain_LOTSA_decay_tooltip:0 "·ƒ—V§R10§!£eclipse_texticon£pˆ%"
+ eclipse_plati_decision_title:0 "lûyýV¶Rpˆ%<P"
+ eclipse_plati_decision_desc:0 "Çcknx„v?eVrŒTèT'Y„vªR›RÿbìN„v?eœ^ïSåNSÕ‹»laMRàQãN[Root.GetName]ºN.b„vmc³R0"
+ eclipse_great_power.EVTNAME150: "DEBUG"
+ eclipse_great_power.EVTDESC150: "R0"
+ eclipse_great_power.EVTOPTA150: "ïS`"
+ eclipse_great_power.EVTOPTB150: "ZP‹YêñT"
+ eclipse_great_power.EVTNAME151: "[Root.GetAdjective] ÄžÑ‘öeãN"
+ eclipse_great_power.EVTDESC151: "ÄžÑ‘öeãNck(WM–4Nÿ AucƒŒTÜw)R„vöeãNsSSeg4Nÿ [Root.GetName] SXR(Wpe*NNªuÿbìN„vLeºNS)TƒnÿbìN„v‡eSSN­eÑSUSÿ"
+ eclipse_great_power.EVTOPTA151: "IQcƒÿ"
+ eclipse_great_power.EVTNAME1: "[Root.GetAdjective] )Tƒn"
+ eclipse_great_power.EVTDESC1: "†SòSÍsÏ…Nw¸‹YsQŽNte*N‡efˆm1Y†kKS0YuN°etQýV¶R0áOðNŒTºNl„vEe‹N0 KS¡r‹NžRÁ‹fÿôfbŸR0ôfØšHe„v?eœ^ÔkvQÖN?eœ^cíuöeô•ôf•ÿFOsSO=fƒRìNgÈumNOHSgŽNöeô•„vPŽ†0 N*NýV¶RïSýwO«ˆVgv^«ˆëgyVÿFON*NÎN…Qè)Tƒn„výV¶R - ˆVSÿ‚Yœg	g„vÝ‹	ÿŒb0RÍ‘u„vâVÓu›RÏ‘ŒTáOõV0 N*NýV¶R„vÂ‰õVïSýwO«ˆÕ‹þVÇ‡eS0?e»lbóS=fùRþfÏuXR(W„v‡ef„ví‹Š!jÿNegÝOXR0 ªR›RgÈu=f’V³R„vÿàV:NN*NºNNýw2N!kÛeQTNag³lAm0\n\n[Root.GetName] Ïu†S†NN*N›Q‹Nßu»l0ÏuNmAucƒŒTïSåNô‹=fáOõVOŠ„v‰LqöeãN0 Ù*NöeãNˆVëV1SO«ˆN*NEQán—e‰N0´f›RŒT1Y»SteteàQãNºN„vöeãNNbÖSãN0"
+ eclipse_great_power.EVTOPTA1: "bìNSOÍVw0"
+ eclipse_great_power.EVTOPTB1: "[Root.GetName]«ˆgdÁkÿ"
+ eclipse_great_power.EVTNAME100: "YOâl"
+ eclipse_great_power.EVTDESC100: "Yt^egÿ[Root.GetName]Nôv(WªR›RôucÖNìN„vCg›RŒTfåe„vcƒw0 Yt^egÿ[Root.GetAdjective] Nôvw–eQ²Qz0·u‰NŒT4xOWKN-N0 Yt^egÿ[Root.GetName]NôvYŽN)Tƒn„v¹0 bìNêjŒ„v¶r`ÍN6qXR(WÿbìNnZi0W°‹—V±›N^gw0RvQÖNÅ`µQ„vºN0 bìN°‹—VþfÏu=fÀNHNåNÊSïSýw=fÀNHN0 °s(WÿbìN„vëXuQðNgÖNìN„v [Root.Monarch.GetTitle]ÿ^g [Root.Monarch.GetHerHim] 	gN)YýwYb`Y [Root.GetName] „v›RÏ‘ÿ"
+ eclipse_great_power.EVTOPTA100: "ÍVw0(WÍVw-NîX'YêñT0"
+ eclipse_great_power.EVTOPTB100: "ÙØ¡lŒR0"
+ eclipse_great_power.EVTNAME2: "—RYe²Qz"
+ eclipse_great_power.EVTDESC2: "uIm(W[Root.GetName]…Q„v[eclipse_religious_province.Religion.GetName]>y:S-NcíuúQ°sfkÅˆ²Qz0 KS¡rbìNZPúQ†NªR›RÿFO[Root.Religion.GetName]áOðNÍNNQ«ˆ¹RÍVÿVYe’VŒTVYe’VçuíuIeûQ[Root.GetAdjective]^yLwºNXTŒTNb	gÖNìNÑS²‹:Nï‹eQgk„vºN0"
+ eclipse_great_power.EVTOPTA2: "bìNNýw©‹NS¿RGSµu0"
+ eclipse_great_power.EVTOPTB2: "ŠbÖNìN¡rweg"
+ eclipse_great_power.EVTOPTC2: "bN¹pýN(WNN0"
+ eclipse_great_power.EVTNAME3: "SÏe²ÿ'YÇNh`"
+ eclipse_great_power.EVTDESC3: "[eclipse_cultural_province.Culture.GetName]„v[eclipse_cultural_province.GetName]>y:S(Wê³Q`ó`ŒTINCg¦hó`„vÀo±RNâVÓuwegÿÍS—b[Root.GetName]„v‹Sëßu»l0"
+ eclipse_great_power.EVTOPTA3: "ZPúQ©‹ek"
+ eclipse_great_power.EVTOPTB3: "Nb	g[eclipse_cultural_province.Culture.GetName]ºNýSåwSÖNìN„v0WMOÿ"
+ eclipse_great_power.EVTNAME4: "4–Œ"
+ eclipse_great_power.EVTDESC4: "[Root.GetName]Nbb×S„vp‚›v^¡l	gàV:NÎ‘ÃVÃRÃRŒTNánw«ˆýVÆ‰0 –NwqS:g„vçuíuÿˆVS	gºNÍN6qøváOÖNìN„v [Root.Monarch.GetTitle] eg0R [Root.Monarch.GetName] f‹JT [Root.Monarch.GetHerHim] ck(WÛLˆ„v4–Œ - T*N6–BSØyÆRÆRŒ¨cû?eCg [Root.Monarch.GetName]v^:NêñT:YÖSNèRCg›RŒTqVÍT›Rÿ"
+ eclipse_great_power.EVTOPTA4: ".Ucv^Y³QNb	gbìNNýwáOûN„vºNÿ"
+ eclipse_great_power.EVTOPTB4: "Ù›N¾–SêS=fv`Òk„v1ŒŠTÿ"
+ eclipse_great_power.EVTNAME5: "P%+vêu"
+ eclipse_great_power.EVTDESC5: "Âp†NÙ=fbìN„vlQlŒTYýVºNùRbìN„výV¶RŒT˜RÚP:g„g„vÏcð0 ÖNìNŒ0R?B0Ùˆ&^sQû|ŒTOP’ˆÙ›NyrVŒRhQˆmd–†N¾|ñ‚?e»l„vgT^g0 (W^ýV„vÑž—föeãNÿP%mN¸‹=f‡efúhPgN„vgTN—˜‰”PR0"
+ eclipse_great_power.EVTOPTA5: "bN(WNNÿêS‰b—V0Rb„v±ýN0"
+ eclipse_great_power.EVTOPTB5: "bìNÅV‰˜ZP¹pÀNHN0"
+ eclipse_great_power.EVTNAME6: "›Q–„vÌwÛS"
+ eclipse_great_power.EVTDESC6: "ùR*geg„v`‘uŒTùRS›Q„vàVÚ‹ÿwN=fùR[Root.Monarch.GetTitle]„vàVÚ‹ÿüRô†N'YÄ‰!j„vuQ0 	g°‹UVhˆfÿ	gE››R„v†˜üRºNô‹gN^S>eV[Root.GetAdjective]×e^v^:NvQÖN‹NNwb‰HN=f:N†NYýV¿R›Rÿ‰HN=f—RYeáOðNÿbwóS=f:N†NÑ‘±”0 ÎNS‹NöN0Rte*NâVˆm1YÿbìN„v›Q–peÏ‘gÏQS0 àeº‹bìN>epNàVRPRØ=f:VëÖNìNgyVÿ	gN¹p=ffnx„v[Root.GetAdjective]›Q–ckYŽNß|Õ|„v¶r`0"
+ eclipse_great_power.EVTOPTA6: "àeº‹`7hÿÖNìNýO:N[Root.GetName]w‰k0"
+ eclipse_great_power.EVTOPTB6: "bìNN—‰æa+Y0"
+ eclipse_great_power.EVTOPTC6: "Y³Q±›N(WbìNè–-NLp“NàVÂ‰õV„vºNÿ"
+ eclipse_great_power.EVTNAME7: "…QLe"
+ eclipse_great_power.EVTDESC7: "4xOW0—fNgŒTvQÖNYýVr^‰m - [Root.GetName] 0RYý=fô•Œÿ1SÏPNêS•ánó²†„vÎ‘×r0 ¡l	gºNïSåNŒRhQáOûNÿûNUOºNýïSåNb:NYýVyråTÿdköedkIR	gºNck(WÆRŒÍSùRbìNO'Y„v[Root.GovernmentName]0 Ù›Nô•ŒÅV‰˜«ˆýUcv^ò”d–ÿNÜ`NRãN÷Nÿ ÙÍyZPÕl‹†6qSS	gbHeÿFOmNO.b%NÍ‘Tœg0 æSN¹eb—ÿbìNïSåN–öe–0W„`„`0WYuaÙ›NàV.tÿHe‡sNONÿwN=fùR?eœ^…QèºNXThˆ°súQlQV„vNáOûN0 àeº‹‚YUOÿSVMR„v1V¹pS«ˆbìN„vLeºNEQR)R(uÿSìb[eclipse_spy_country.GetName]0"
+ eclipse_great_power.EVTOPTA7: "ŠbNb	gN<P—VáOV„vºNýôbweg0"
+ eclipse_great_power.EVTOPTB7: "(ŒNaLˆ‹NbìNàeÕlb×SôfY„v¨Raƒ0"
+ eclipse_great_power.EVTNAME8: "1Y%„výV¦^ÿ"
+ eclipse_great_power.EVTDESC8: "[Root.GetName]Ïu†S„vMRNb*g	g„vqS:gck(W«ˆYýV¿R›Ràeº‹=fLeºNØ=fßvËSÆRRsQèl0 ¸‹YþfÏu>múQO‚‚0&^Nw)nŒT„vŠžŒT<yir„výV¶RòTÏujPbk†NùR [Root.GetName] „vIm¨R0 [Root.Monarch.GetTitle] [Root.Monarch.GetName] ŒTvQÖNßu»lwKNô•²Nbc„váOöN'`(ÑSu†NØSSÿí‹ŠØS—Vôf R·Q.o0r^ÿwN=f„˜g„vSleŒTsSS0Reg„vŠí‹0 uó [eclipse_ally_country.GetAdjective] Y²N˜RmNÇÖNìN„vŠLˆhˆ°súQùRÌR	gbHe„vTjO„v`‘uÿv^NùR=ec [Root.GetName] :ONtQ±0 wegYýVR:Vck(WIr…VbìN„š²P„výV¶R–öe)Tƒn......"
+ eclipse_great_power.EVTOPTA8: "©‹ÖNìN1r`HNó`1S`HNó`0"
+ eclipse_great_power.EVTOPTB8: "bìNÅV‰˜ªR›Rã‰bìN„vYƒXÿ"
+ eclipse_great_power.EVTNAME9: "ÎW^²Qz"
+ eclipse_great_power.EVTDESC9: "[eclipse_cityconflict_province.GetCapitalName] ckYŽNÈpkp-Nÿ ±›NùRêñT„vuImNána„vºNòTÏuwegv^Ák‰c†NÖNìN„vÎW^ŒT[eclipse_cityconflict_province.GetName]„vvQÖN0W¹e0 ‹YÏPÙOùRÖNìN	gûNUO.^©R<O„vÿ àeº‹‚YUOÿbìNïSåNSÕ‹S²Qzµc6R(WÎW…Qÿbw>mc›Q–SNb	gÛS›Q©eŽNRN0"
+ eclipse_great_power.EVTOPTA9: "©‹ÖNìNêñTã‰³Q0"
+ eclipse_great_power.EVTOPTB9: "b`Yéy^"
+ eclipse_great_power.EVTNAME10: "[Root.GetName]„v¦lK„"
+ eclipse_great_power.EVTDESC10: "O'Y„v[Root.GetName] - °s(WêSXR(WŽNTINN0 êÎNbìNgRTw:NNLu‚ðS„vIN‰ÂSNwåNegÿbìN°s(WòTÏuÜÜK„Tpˆ1V†N0 ¸‹YºN²‹:NÿÙ=fbìNO'Y‡ef„vÈuÓuÿ=föeP©‹MOÙuvQÖN°etQ^ýV†N0 bìN„vLeºNÿsS [eclipse_rivalsubjugator_country.GetAdjective]ÿàe‘uck(WÆQYÓumgbìN„vßu»lÿv^SbìNnŽNÖNìN„v·g•KNN0"
+ eclipse_great_power.EVTOPTA10: "êS‰ [Root.Capital.GetCapitalName] XR(WÿbìN1SýwZWcN»S0"
+ eclipse_great_power.EVTNAME14: "0:N†N[eclipse_independence_country.GetAdjective]ŒTvQÖN×S‹Sëw„vê1uÿ0"
+ eclipse_great_power.EVTDESC14: "ýV¶RˆVS=fíQzzúQ°s„vôfY„vöePÿƒR=fÎNþfÏu:V'Y„v‡ef„vpˆ%Wù-NbVb„v0 [Root.GetName] „v [Root.GovernmentName] ck(W)TƒnÿbìN„vãlSdkÆ‰:N±R^ìrËz„v:gO0 xYÈ‹„v [eclipse_independence_country.GetAdjective] ck(WÆ–ÓuÖNìN„v›Q–ÿ4Œ1ÖNìNÁNHa„v—RINv^Y³Q [Root.GetAdjective] „vàVÚ‹w0 ¾–åNó`aŒ„vàe<yÿFObìNÍN6q”^å‹wQ†2N*N	ébKNNbìNZWcbìN„vv`aIN˜˜ÿbw......‚föeÙuˆNÖNìNÖNìN4ngòTEN„vê1u0"
+ eclipse_great_power.EVTOPTA14: "`OìNNb	gºNåwSêñT„vMOnÿ"
+ eclipse_great_power.EVTOPTB14: "INCg......`OìNó`‰YS1SÿbYS'T......"
+ eclipse_great_power.EVTOPTC14: "mN¸‹[Root.Monarch.GetTitle]ïSåNŒb0Rã‰³Q¹eHh......"
+ eclipse_great_power.EVTNAME15: "[eclipse_extremist_province.GetName] „vgïzININLˆ:N¬b4Y"
+ eclipse_great_power.EVTDESC15: "N*N°e„v—RYeYe>mòTÏuúQ°sÿƒR±RlbùRÏu‡e„vZWcÿv^õLˆ¨cûbìNVåN:NjŒ„v[Root.GovernmentName]éy^„váOðN0 Ù›N.OYeëX„vý–wVËY4Œ1bìNùRÏu‡e„vã‰Ê‘ÿv^Æ‰Nb	g[Root.Religion.GetName]áO’V:NVïz0 Ù›N°eu„vŸSYeèeININwwnŽN [eclipse_extremist_province.GetName]ÿ‚Yœg1ŒŠ^SžRÿRƒRck1u [eclipse_extremistrival_country.GetAdjective] ºN^©Rÿ°s(Wck(Wte*N [Root.GovernmentName] .O­d0 (WÖNìN„v	gÒk`ó`-NÿÖNìN±Rlbªv`„vLˆ:Nÿ‹O‚Y—RYe´f›Rÿuó|TTY³QÖNìN„v[Root.Monarch.GetTitle]ÿàV:NÖN„vNleT†ÿ"
+ eclipse_great_power.EVTOPTA15: "ÎNbìN„v[Root.GovernmentName]-Nd–»SÙ*NPÂp„vN‰ÿ"
+ eclipse_great_power.EVTOPTB15: "SV6qbìNv^¡l	g²‹wùR…VÖNìN......"
+ eclipse_great_power.EVTNAME16: "Œ˜î•úQpÿ"
+ eclipse_great_power.EVTDESC16: "1SÏPw.Ÿ»yck(WN‰l„v9‚êSN7hÿbìN„vŒ˜î•ìNÙVqN0W6eþb‹YÖNìN„virÁTÿÆQY»y[Root.GovernmentName]0 ÖNìNwN0RÙÌ‘„v*gegÿ(W[Root.GetName]…QûRBlN*Nôf3zšR0ôfŒTs^„výV¶RegÐc›OÖNìN„vg¡R0"
+ eclipse_great_power.EVTOPTA16: "[Root.GetAdjective] Õl­^¡l	gæa+Y„v¹R«ŽKN0W......"
+ eclipse_great_power.EVTOPTB16: "±”Oô‹gÖNìNYuNeg0"
+ eclipse_great_power.EVTNAME17: "1Y»Sgg„v7>kºN"
+ eclipse_great_power.EVTDESC17: "bìN„v[Root.GovernmentName]%NÍ‘OVYýVDÑ‘0 bìN(u7>k:NbìN„v˜RÚP:g„gŒT›Q–Ðc›ODÑ‘ÿFOÖNìN„vpeÏ‘ÏPê–)TN7håNäNºNÅbçV„v¹eVžX R0 N›NºNòTÏu¾bqQÆ‹ÿ[Root.GetName] Nbw–eQ„v%NÍ‘qS:gNO©‹ÖNìN„v±”ÞVegÿwN [Root.Monarch.GetTitle] v^N%`ŽN&^pÖN„vÑ‘“^0 1uŽNøváO¡l	gvQÖN¹eÕlïSåN6eÞVÖNìN„vÑ‘±”ŒT)Ro`ÿÖNìNN [eclipse_loanfight_country.GetName] ¾bOS®‹ÿ(Wb‰Ngô•:NÖNìNÐc›ODÑ‘ÿ^gÖNìNóSýwÇb‰NKcÞVèRmc1Y0"
+ eclipse_great_power.EVTOPTA17: "ÖNìN°s(WVËY¢b«R†Nÿ"
+ eclipse_great_power.EVTNAME18: "NQËR¹R"
+ eclipse_great_power.EVTDESC18: "(WqS:göegÿýV¶R…QèOrÑS…Qè´f›R0 çe(`Q!k«ˆí”°‹ÿw0ÌRmc1Y„v1ûNR«ˆlûy0RvQÖN²SO«ŽN0 ÎN*NºN?e»lë³R0RùR—RYeSpe²SO„v`SNgÿøv’NSÍ‘ŒTqQXR„vÂ‰õVùRbìN„vºNlegô‹ØS—VŠegŠL–u0 [Root.GetAdjective] Yt^egNôvZWcËR¹RNŒTŒ„v?eVrÿFOöeãN(WØSS - mN¸‹bìNOåb±b°e„vï¿uÿÜ»ybìNîvMR„vËR¹R?eVrÿ"
+ eclipse_great_power.EVTOPTA18: "Ù=fg‹Y„v0"
+ eclipse_great_power.EVTOPTB18: "bìNNýw©‹Ù:WqS:gÍ‘°ešRINbìN0"
+ eclipse_great_power.EVTNAME152: "‡eS²Qz"
+ eclipse_great_power.EVTDESC152: "¹S²SO„vbXTNšR³QÃVÿÓubTwßvÿ(WqQT„vLeºNb—MR›bV†SòSRgk0 ÖNìN¾|^yâVÓuÿÄuÇuŒTs^—b®‹ÿ‰BlckINNs^Ir0 6qwÿ1uŽN?eœ^ùRÖNìN„vNánÆ‰wNÁ‰ÿv^çuíuàeÆ‰[plati_intolerant_culture_province.Culture.GetName]ºNlÿÖNìN„v÷‹Bl«ˆnå‚Tû•0 –Nw't.VNS¿R¾0R4NLu¹pÿ[plati_intolerant_culture_province.GetName]ØSb†NN*N–öeïSýwr¸p„vkpoƒvh0 WˆSNrÑS†N´f›R²Qzÿ»ESìN(WP`ç`ŒT2a`„vqšON’NøvIeûQ0[plati_intolerant_culture_province.GetName]°s(W=fN*Nb:WÿàV‡eSNËR¹RwµNu„v´f›R2OÕu=t=t0"
+ eclipse_great_power.EVTOPTA152: "N™Y0"
+ eclipse_great_power.EVTNAME153: "®W‰c„vNãN"
+ eclipse_great_power.EVTDESC153: "[Root.GetAdjective] „v'YÏ‘ºNãSAm1YµNu†NñmÜ„vqVÍT0 ¶R­^=e»y4xŽxÿYuNáR‡YŒTdR?Q0 :ONePhQ„v*NºNÿ«ˆ[Root.Monarch.GetTitle]Æ‰:NºN›R	ÿasTNw³R¨R›R'YÏ‘ÏQSÿ RgR†N,gòT%NûS„vbV¿R0 ºNìNªR1cNbNwûRŒbËz³¹pÿÝug<ONN©cÖv†NûNUO^g„vÙfIQ0"
+ eclipse_great_power.EVTOPTA153: "‹Y‹YOo`'TÿëXuQ0"
+ eclipse_great_power.EVTNAME154: "Ñž.^QÜuúQ°s"
+ eclipse_great_power.EVTDESC154: "'YÏ‘„v [Root.GetAdjective] ÎW^«N	gˆV'Yz¦^„vê»lCg0 6qwNx^„v=fÿŒgce„vßu»lŒTåeÊv%NÍ‘„vP%¬Pu†NN¡wªv`›RÏ‘¯rjÆ–âVÿƒRìNN?aùR[Root.GovernmentName]10 ÖNìN„vÏu%„úW0WR‘†™0“Yb–ŒTLZS:WNbb:N†NÖNìN^—ÕlIm¨R„vL^PR0 L:Wb:NØšÎ˜i–8nb„v-NÃVÿ«ˆÍdµuåN	g)RŽNå‹Æ–âV„vŒ˜¢R0 “Yb–b:Njv`„vâTtzÿ1V¿R²SO«ˆðV(WBSBSeRJR„vQ-N0 pÁyIm¨RsWsÿ^—Õl'ir(WÎW^„v–K…S-Nê1uAm¨R0"
+ eclipse_great_power.EVTOPTA154: "éy^S«ˆb`Y0"
+ eclipse_great_power.EVTOPTB154: "SÕ‹Nj¯rŒ2R0"
+ eclipse_great_power.EVTOPTC154: ">mëXuQÇ»S0"
+ eclipse_great_powerd: "N*N^ýV„v)Tƒn"
+ desc_eclipse_great_powerd: "NRýOÓumgÿ	gN)YbìN„š²P„v¶r`mNSS:NLN	g0 bìNýwÏu×SOOöeô•„vwŒšTÿ"
+ been_greatpower_twenty_years_tooltip: "òTÏub:NR:V100t^†N0"
+ eclipse_active_for_20_years_tooltip: "Ïu†S†N25t^„vÑž—föeãN0"
+ eclipse_active_for_10nopower_years_tooltip: "Ïu†S†N15t^„vÑž—föeãNv^1Y»S†NR:V0WMO0"
+ noone_else_in_darkage_tooltip: "¡l	gvQÖN¿R›RÏu†SÇÙ:WŒp¾–0"
+ someone_else_in_darkage_tooltip: "æSN*N¿R›Rck(WÏu†SÙ:WŒp¾–0"
+ eclipse_warning_tt: "bìNOTÿ"
+ eclipse_strongest_power_tooltip: "=fNLuNg:V„výV¶R"
+ eclipse_main: "N*N^ýV„v)Tƒn"
+ desc_eclipse_main: "`OýwÏu×SOOöeô•„vwŒšTÿ"
+ prov_eclipse_religious: "—RYe´f›R"
+ desc_prov_eclipse_religious: "å‹w„v—RYeLuùRûNUO—RYeb?e»lG•‹S„vOþVhˆ°súQ:VÈp„vµb—b0"
+ prov_eclipse_cultural: "lÏeÉ‰’‘"
+ desc_prov_eclipse_cultural: "1uŽNå‹w„v‡eS¡l	g—V0R”^	g„v²‹ïSÿSV0WlO·u·uweg4Œ1ÖNìN„vßu»lw0"
+ prov_eclipse_trade: "8fqS:g"
+ desc_prov_eclipse_trade: ""
+ prov_eclipse_production: "uµNjPÞn"
+ desc_prov_eclipse_production: "1uŽN8f-N­e0>yORBS RgRŒT´f›RÿÙ*NÑS¾„vwýN°s(Wckb—4NNw%NÍ‘„vqS:g0"
+ cooldown_eclipse_dismorale: "Œp¾–'`„vëXl"
+ desc_cooldown_eclipse_dismorale: ""
+ cooldown_eclipse_deserters: "'Y¡N"
+ desc_cooldown_eclipse_deserters: ""
+ cooldown_eclipse_leadersexecuted: ":ON†˜üR"
+ desc_cooldown_eclipse_leadersexecuted: ""
+ eclipse_spies_rampart: "…QLe"
+ desc_eclipse_spies_rampart: ""
+ eclipse_spy_hunts: "ô•Œ¡R2R"
+ desc_eclipse_spy_hunts: ""
+ eclipse_maintaining_of_world_stage: "(WNLu‚ðSNÝOcMR8—IN0WMO"
+ desc_eclipse_maintaining_of_world_stage: ""
+ eclipse_failed_state: "1Y%„výV¦^"
+ desc_eclipse_failed_state: ""
+ eclipse_subject_loyalty: "N„vD–¸^"
+ desc_eclipse_subject_loyalty: ""
+ eclipse_islamic_extremism: "SbûQ—RYegïzININ"
+ desc_eclipse_islamic_extremism: ""
+ eclipse_islamic_extremism_severe: "—RYegïzININ„vtQw"
+ desc_eclipse_islamic_extremism_severe: ""
+ prov_eclipse_extremist_stronghold: "gïzININ'Y,g%„"
+ desc_prov_eclipse_extremist_stronghold: ""
+ eclipse_loan_offers: "^—8^Ä‰:P¡Rý6e"
+ desc_eclipse_loan_offers: ""
+ eclipse_maintenance_tolerance: "¨cLˆãN÷NØšf„vËR¹R"
+ desc_eclipse_maintenance_tolerance: ""
